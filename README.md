@@ -5,6 +5,7 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Python 3.8+](https://img.shields.io/badge/python-3.8+-blue.svg)](https://www.python.org/)
 [![Google Colab](https://img.shields.io/badge/Run%20in-Google%20Colab-orange?logo=google-colab)](https://colab.research.google.com/)
+[![DOI](https://zenodo.org/badge/1202730457.svg)](https://doi.org/10.5281/zenodo.19442392)
 
 **Autora:** Sara Sampayo Sande · Centro Crímina, Universidad Miguel Hernández de Elche · ssampayo@crimina.es
 
