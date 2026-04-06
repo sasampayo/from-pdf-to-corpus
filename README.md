@@ -65,8 +65,7 @@ from-pdf-to-corpus/
 
 ## Citar
 
-> Sampayo-Sande, S. (2026). *From PDF to Corpus: A Validated Python Tool for Systematic Extraction of Parliamentary Speech Data from the Spanish Congress of Deputies*. Centro Crímina, Universidad Miguel Hernández de Elche. [https://github.com/sasampayo/from-pdf-to-corpus](https://github.com/sasampayo/from-pdf-to-corpus)
-
+> Sampayo-Sande, S. (2026). *From PDF to Corpus: A Validated Python Tool for Systematic Extraction of Parliamentary Speech Data from the Spanish Congress of Deputies* (v1.0.0) [Software]. Zenodo. https://doi.org/10.5281/zenodo.19442392
 ---
 
 ## Licencia
